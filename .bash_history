@@ -171,3 +171,37 @@ git commit -m "Initialize git"
 git remote add origin git@github.com:jthomas102923/repoman.git
 git remote -v
  git push -u origin master
+git clone git@github.com:jthomas102923/phase-0-html-experiencing-html-lab.git
+code .
+touch my_list.txt
+code my_list.txt
+code my_list.html
+explorer.exe my_list.html
+explorer.exe my_list.html
+explorer.exe my_list.html
+explorer.exe my_list.html
+rspec
+sudo apt install ruby-rspec-core
+rspec
+rspec
+git add
+git add https://github.com/jthomas102923/phase-0-html-experiencing-html-lab.git
+git add .
+git add my_list.html
+git add git@github.com:jthomas102923/phase-0-html-experiencing-html-lab.git
+git add . 
+git add .
+git commit -m "Completed assignment"
+git push 
+git add
+git add .
+learn
+git init
+git add
+git add .
+git commit -m "Completed assignment"
+git push
+git push https://github.com/jthomas102923/phase-0-html-experiencing-html-lab.git
+git push git@github.com:jthomas102923/phase-0-html-experiencing-html-lab.git
+cd git-basics-lab-phase-0/
+explorer.exe my_text.html
